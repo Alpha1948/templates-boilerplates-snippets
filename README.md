@@ -1,4 +1,4 @@
-# templates-and-boilerplates-and-snippets #
+# templates-boilerplates-snippets #
 
 Templates, boilerplates and snippets for:
 
